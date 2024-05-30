@@ -6,7 +6,7 @@
 	<title>DIGITAL ART|MUSEUM</title>
 	<style>
 		body{
-			background: url(images/4.jpg)no-repeat;
+			background: url(4.jpg)no-repeat;
 			background-size: cover;
 		}
 		*{
